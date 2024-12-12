@@ -4,6 +4,9 @@ recover lost accounts on Metmask
 
 You need
 -nodeJS
+<script type="module">
+    import { ethers } from "https://cdn.ethers.io/lib/ethers-5.2.esm.min.js";
+   // import { ethers } from "ethers"; </script>
 -npm
 You can download it from here: https://nodejs.org/en/
 
